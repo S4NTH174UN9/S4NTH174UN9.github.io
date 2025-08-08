@@ -1,0 +1,50 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #0e0e0e;
+  color: #f0f0f0;
+}
+
+header, footer {
+  text-align: center;
+  padding: 1.5em;
+  background: #1e1e1e;
+}
+
+.hero {
+  padding: 2em;
+  text-align: center;
+  background: #161616;
+}
+
+.projects, .contact {
+  padding: 2em;
+  max-width: 900px;
+  margin: auto;
+}
+
+.project-card {
+  background: #1c1c1c;
+  padding: 1.2em;
+  margin: 1em 0;
+  border-radius: 10px;
+}
+
+.project-card a {
+  color: #6be8fc;
+  text-decoration: none;
+}
+
+.contact ul {
+  list-style: none;
+  padding: 0;
+}
+
+.contact li {
+  margin: 0.5em 0;
+}
+
+a {
+  color: #00bcd4;
+}
